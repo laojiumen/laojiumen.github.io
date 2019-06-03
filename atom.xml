@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>老九门, LJM</title>
+  
+  <subtitle>寻龙分金看缠山 一重缠是一重关</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yunwangst.com/"/>
+  <updated>2019-06-03T02:01:14.721Z</updated>
+  <id>http://yunwangst.com/</id>
+  
+  <author>
+    <name>LJM</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>autolabelling</title>
+    <link href="http://yunwangst.com/2019/06/03/autolabelling/"/>
+    <id>http://yunwangst.com/2019/06/03/autolabelling/</id>
+    <published>2019-06-03T01:56:23.000Z</published>
+    <updated>2019-06-03T02:01:14.721Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/autolabelling1.png" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/images/autolabelling1.png&quot; alt&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="nlp" scheme="http://yunwangst.com/categories/nlp/"/>
+    
+    
+      <category term="autulabelling" scheme="http://yunwangst.com/tags/autulabelling/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>multi-process_memory</title>
+    <link href="http://yunwangst.com/2019/05/06/multi-process-memory/"/>
+    <id>http://yunwangst.com/2019/05/06/multi-process-memory/</id>
+    <published>2019-05-06T03:16:12.000Z</published>
+    <updated>2019-06-03T02:01:14.721Z</updated>
+    
+    <content type="html"><![CDATA[<p>在python使用多线程的时候，子进程会fork当前进程的所有数据，所以在初始化的时候，主进程和子进程不要读取任何大文件，在target函数快中读取，这样可以极大节省内存的使用率!!!!!!!!!!!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在python使用多线程的时候，子进程会fork当前进程的所有数据，所以在初始化的时候，主进程和子进程不要读取任何大文件，在target函数快中读取，这样可以极大节省内存的使用率!!!!!!!!!!!&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="python" scheme="http://yunwangst.com/categories/python/"/>
+    
+    
+      <category term="multi-process" scheme="http://yunwangst.com/tags/multi-process/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>adobe camera raw 安装</title>
+    <link href="http://yunwangst.com/2018/08/31/adobe-camera-raw/"/>
+    <id>http://yunwangst.com/2018/08/31/adobe-camera-raw/</id>
+    <published>2018-08-31T12:07:37.000Z</published>
+    <updated>2019-06-03T02:01:14.721Z</updated>
+    
+    <content type="html"><![CDATA[<p>adobe camera raw 是配合相机的调图插件，安装页面: <a href="https://helpx.adobe.com/cn/camera-raw/kb/camera-raw-plug-in-installer.html" target="_blank" rel="noopener">https://helpx.adobe.com/cn/camera-raw/kb/camera-raw-plug-in-installer.html</a></p><ul><li>关闭adobe所有软件</li><li>下载对应版本插件</li><li>一步步下载</li><li>启动adobe(ps) 找到 上方工具栏-&gt;滤镜-&gt;camera raw 滤镜，若成功打开即为安装成功 :P</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;adobe camera raw 是配合相机的调图插件，安装页面: &lt;a href=&quot;https://helpx.adobe.com/cn/camera-raw/kb/camera-raw-plug-in-installer.html&quot; target=&quot;_blank&quot; re
+      
+    
+    </summary>
+    
+      <category term="安装教程" scheme="http://yunwangst.com/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="adobe" scheme="http://yunwangst.com/tags/adobe/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安装photoshop cc 2018 并破解</title>
+    <link href="http://yunwangst.com/2018/08/28/ps2018cc/"/>
+    <id>http://yunwangst.com/2018/08/28/ps2018cc/</id>
+    <published>2018-08-28T14:38:10.000Z</published>
+    <updated>2019-06-03T02:01:14.721Z</updated>
+    
+    <content type="html"><![CDATA[<p>为了方便自己日后查询，也方便大家，以下列出了mac上的photoshop 2018 cc 安装和破解的流程(亲测)，供大家节省时间</p><ul><li>下载photoshop<br>链接:<a href="https://pan.baidu.com/s/1W3uHmtHHQi7Dc5KkyVPT-Q" target="_blank" rel="noopener">https://pan.baidu.com/s/1W3uHmtHHQi7Dc5KkyVPT-Q</a>  密码:i47v</li><li>一步步安装， 安装结束后运行，中间需要adobe账号，试用，成功打开后，关闭软件</li><li>下载破解文件 链接:<a href="https://pan.baidu.com/s/1TB0MNYMiUP2ScEE3rBoEwg" target="_blank" rel="noopener">https://pan.baidu.com/s/1TB0MNYMiUP2ScEE3rBoEwg</a>  密码:cdd1 </li><li>解压破解文件，复制<code>amtlib.framework</code>文件(文件夹)</li><li>点击<code>finder</code>中左边<code>应用程序</code>，找到phototshop2018文件夹，进去，找到应用Adobe Photoshop CC 2018，右键显示包内容，依次打开<code>Contents</code> -&gt;<code>Frameworks</code>，然后粘贴，出现是否覆盖文件，选择覆盖，然后重新打开软件，检查是否破解成功。</li></ul><p>总结2句话：</p><ul><li>下载软件安装试用</li><li><p>下载破解文件(amtlib.framework)覆盖软件中的文件</p><p>Ps:</p></li><li>这个破解文件貌似适用于所有adobe的2018 cc软件，包括ai，pr等，没有测试过</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;为了方便自己日后查询，也方便大家，以下列出了mac上的photoshop 2018 cc 安装和破解的流程(亲测)，供大家节省时间&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;下载photoshop&lt;br&gt;链接:&lt;a href=&quot;https://pan.baidu.com/s/1W3uHmt
+      
+    
+    </summary>
+    
+      <category term="安装教程" scheme="http://yunwangst.com/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="ps" scheme="http://yunwangst.com/tags/ps/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>laojiumen</title>
+    <link href="http://yunwangst.com/2018/06/12/laojiumen/"/>
+    <id>http://yunwangst.com/2018/06/12/laojiumen/</id>
+    <published>2018-06-12T13:39:10.000Z</published>
+    <updated>2019-06-03T02:01:14.721Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="博客迁移至老九门"><a href="#博客迁移至老九门" class="headerlink" title="博客迁移至老九门"></a>博客迁移至老九门</h1><p><code>寻龙分金看缠山 一重缠是一重关</code></p><ul><li><p>今天开始，nic私人博客迁移到老九门，我们几个工程师兄弟可以一起维护一个博客，打造我们自己的知识库。</p></li><li><p>为了简化流程，整个库master分支为博客页面分支，blog分支为源代码分支</p></li><li>blog分支自动连接到travis-ci中，有任何的push都会自动调用ci，构建的静态代码自动推送到master分支更新博客。(用hexo构建)</li><li>若用hexo的兄弟，clone了整个项目后<ul><li>切换到<code>blog</code>分支</li><li>hexo new xxxxxx(文章标题，英文)，会产生source/_posts/year-month-day-xxxxxx.md</li></ul></li><li>若不用hexo的兄弟，clone了整个项目后<ul><li>切换到<code>blog</code>分支 </li><li>创建<code>source/_posts/year-month-day-xxxxxx.md</code>文件(虽然文件名不强求，但是最好按照这个规则，好管理)</li></ul></li><li><p>编辑产生的文件,添加<code>categories</code>, 例子如下:</p>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">    title: laojiumen</span><br><span class="line">    date: 2018-06-12 21:39:10</span><br><span class="line">    categories:</span><br><span class="line">        - 门规</span><br><span class="line">    tags:</span><br><span class="line">        - 门规</span><br><span class="line">---</span><br></pre></td></tr></table></figure><ul><li><code>categories</code> 必须添加，tag随意</li></ul></li><li><p>然后正常提交，推送到blog分支，会自动触发travis-ci更新(虽然这个过程你们看不到)</p></li></ul><h1 id="important"><a href="#important" class="headerlink" title="important!"></a>important!</h1><ul><li>重要的事情说三遍: 不要上传大文件，最好只上传文章</li><li>重要的事情说三遍: 不要上传大文件，最好只上传文章</li><li>重要的事情说三遍: 不要上传大文件，最好只上传文章</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;博客迁移至老九门&quot;&gt;&lt;a href=&quot;#博客迁移至老九门&quot; class=&quot;headerlink&quot; title=&quot;博客迁移至老九门&quot;&gt;&lt;/a&gt;博客迁移至老九门&lt;/h1&gt;&lt;p&gt;&lt;code&gt;寻龙分金看缠山 一重缠是一重关&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;今
+      
+    
+    </summary>
+    
+      <category term="门规" scheme="http://yunwangst.com/categories/%E9%97%A8%E8%A7%84/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>go for it</title>
+    <link href="http://yunwangst.com/2017/11/13/it/"/>
+    <id>http://yunwangst.com/2017/11/13/it/</id>
+    <published>2017-11-13T12:29:39.000Z</published>
+    <updated>2019-06-03T02:01:14.721Z</updated>
+    
+    <content type="html"><![CDATA[<p><code>为什么要创造一门编程语言</code></p><ul><li>C/C++ 的发展速度无法跟上计算机发展的脚步，十多年来也没有出现一门与时代相符的主流系统编程语言，因此人们需要一门新的系统编程语言来弥补这个空缺，尤其是在计算机信息时代。</li><li>对比计算机性能的提升，软件开发领域不被认为发展地足够快或者比硬件发展更加成功（有许多项目均以失败告终），同时应用程序的体积始终在不断地扩大，这就迫切地需要一门具备更高层次概念的低级语言来突破现状。</li><li>在 Go 语言出现之前，开发者们总是面临非常艰难的抉择，究竟是使用执行速度快但是编译速度并不理想的语言（如：C++），还是使用编译速度较快但执行效率不佳的语言（如：.NET、Java），或者说开发难度较低但执行速度一般的动态语言呢？显然，Go 语言在这 3 个条件之间做到了最佳的平衡：快速编译，高效执行，易于开发。</li></ul><p><code>设计原则</code></p><ul><li>Go 语言有一种极简抽象艺术家的感觉，因为它只提供了一到两种方法来解决某个问题，这使得开发者们的代码都非常容易阅读和理解。众所周知，代码的可读性是软件工程里最重要的一部分（ 译者注：代码是写给人看的，不是写给机器看的 ）。</li></ul><p><code>用途</code></p><ul><li>Go 语言被设计成一门应用于搭载 Web 服务器，存储集群或类似用途的巨型中央服务器的系统编程语言。对于高性能分布式系统领域而言，Go 语言无疑比大多数其它语言有着更高的开发效率。它提供了海量并行的支持，这对于游戏服务端的开发而言是再好不过了。</li></ul><p><code>优点</code></p><p>这里列举一些 Go 语言的必杀技：</p><p>简化问题，易于学习<br>内存管理，简洁语法，易于使用<br>快速编译，高效开发<br>高效执行<br>并发支持，轻松驾驭<br>静态类型<br>标准类库，规范统一<br>易于部署<br>文档全面<br>免费开源</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;code&gt;为什么要创造一门编程语言&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;C/C++ 的发展速度无法跟上计算机发展的脚步，十多年来也没有出现一门与时代相符的主流系统编程语言，因此人们需要一门新的系统编程语言来弥补这个空缺，尤其是在计算机信息时代。&lt;/li&gt;
+&lt;li&gt;对比
+      
+    
+    </summary>
+    
+      <category term="Machine Learning" scheme="http://yunwangst.com/categories/Machine-Learning/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>DNN-iris</title>
+    <link href="http://yunwangst.com/2017/09/09/DNN-iris/"/>
+    <id>http://yunwangst.com/2017/09/09/DNN-iris/</id>
+    <published>2017-09-09T08:55:54.000Z</published>
+    <updated>2019-06-03T02:01:14.721Z</updated>
+    
+    <content type="html"><![CDATA[<p>base on python2</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> __future__ <span class="keyword">import</span> absolute_import</span><br><span class="line"><span class="keyword">from</span> __future__ <span class="keyword">import</span> division</span><br><span class="line"><span class="keyword">from</span> __future__ <span class="keyword">import</span> print_function</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> os</span><br><span class="line"><span class="keyword">import</span> urllib</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line"><span class="keyword">import</span> tensorflow <span class="keyword">as</span> tf</span><br><span class="line"></span><br><span class="line"><span class="comment"># Data sets</span></span><br><span class="line">IRIS_TRAINING = <span class="string">"iris_training.csv"</span></span><br><span class="line">IRIS_TRAINING_URL = <span class="string">"http://download.tensorflow.org/data/iris_training.csv"</span></span><br><span class="line"></span><br><span class="line">IRIS_TEST = <span class="string">"iris_test.csv"</span></span><br><span class="line">IRIS_TEST_URL = <span class="string">"http://download.tensorflow.org/data/iris_test.csv"</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">main</span><span class="params">()</span>:</span></span><br><span class="line">  <span class="comment"># If the training and test sets aren't stored locally, download them.</span></span><br><span class="line">  <span class="keyword">if</span> <span class="keyword">not</span> os.path.exists(IRIS_TRAINING):</span><br><span class="line">    raw = urllib.urlopen(IRIS_TRAINING_URL).read()</span><br><span class="line">    <span class="keyword">with</span> open(IRIS_TRAINING, <span class="string">"w"</span>) <span class="keyword">as</span> f:</span><br><span class="line">      f.write(raw)</span><br><span class="line"></span><br><span class="line">  <span class="keyword">if</span> <span class="keyword">not</span> os.path.exists(IRIS_TEST):</span><br><span class="line">    raw = urllib.urlopen(IRIS_TEST_URL).read()</span><br><span class="line">    <span class="keyword">with</span> open(IRIS_TEST, <span class="string">"w"</span>) <span class="keyword">as</span> f:</span><br><span class="line">      f.write(raw)</span><br><span class="line"></span><br><span class="line">  <span class="comment"># Load datasets.</span></span><br><span class="line">  training_set = tf.contrib.learn.datasets.base.load_csv_with_header(</span><br><span class="line">      filename=IRIS_TRAINING,</span><br><span class="line">      target_dtype=np.int,</span><br><span class="line">      features_dtype=np.float32)</span><br><span class="line">  test_set = tf.contrib.learn.datasets.base.load_csv_with_header(</span><br><span class="line">      filename=IRIS_TEST,</span><br><span class="line">      target_dtype=np.int,</span><br><span class="line">      features_dtype=np.float32)</span><br><span class="line"></span><br><span class="line">  <span class="comment"># Specify that all features have real-value data</span></span><br><span class="line">  feature_columns = [tf.feature_column.numeric_column(<span class="string">"x"</span>, shape=[<span class="number">4</span>])]</span><br><span class="line"></span><br><span class="line">  <span class="comment"># Build 3 layer DNN with 10, 20, 10 units respectively.</span></span><br><span class="line">  classifier = tf.estimator.DNNClassifier(feature_columns=feature_columns,</span><br><span class="line">                                          hidden_units=[<span class="number">10</span>, <span class="number">20</span>, <span class="number">10</span>],</span><br><span class="line">                                          n_classes=<span class="number">3</span>,</span><br><span class="line">                                          model_dir=<span class="string">"/tmp/iris_model"</span>)</span><br><span class="line">  <span class="comment"># Define the training inputs</span></span><br><span class="line">  train_input_fn = tf.estimator.inputs.numpy_input_fn(</span><br><span class="line">      x=&#123;<span class="string">"x"</span>: np.array(training_set.data)&#125;,</span><br><span class="line">      y=np.array(training_set.target),</span><br><span class="line">      num_epochs=<span class="literal">None</span>,</span><br><span class="line">      shuffle=<span class="literal">True</span>)</span><br><span class="line"></span><br><span class="line">  <span class="comment"># Train model.</span></span><br><span class="line">  classifier.train(input_fn=train_input_fn, steps=<span class="number">2000</span>)</span><br><span class="line"></span><br><span class="line">  <span class="comment"># Define the test inputs</span></span><br><span class="line">  test_input_fn = tf.estimator.inputs.numpy_input_fn(</span><br><span class="line">      x=&#123;<span class="string">"x"</span>: np.array(test_set.data)&#125;,</span><br><span class="line">      y=np.array(test_set.target),</span><br><span class="line">      num_epochs=<span class="number">1</span>,</span><br><span class="line">      shuffle=<span class="literal">False</span>)</span><br><span class="line"></span><br><span class="line">  <span class="comment"># Evaluate accuracy.</span></span><br><span class="line">  accuracy_score = classifier.evaluate(input_fn=test_input_fn)[<span class="string">"accuracy"</span>]</span><br><span class="line"></span><br><span class="line">  print(<span class="string">"\nTest Accuracy: &#123;0:f&#125;\n"</span>.format(accuracy_score))</span><br><span class="line"></span><br><span class="line">  <span class="comment"># Classify two new flower samples.</span></span><br><span class="line">  new_samples = np.array(</span><br><span class="line">      [[<span class="number">6.4</span>, <span class="number">3.2</span>, <span class="number">4.5</span>, <span class="number">1.5</span>],</span><br><span class="line">       [<span class="number">5.8</span>, <span class="number">3.1</span>, <span class="number">5.0</span>, <span class="number">1.7</span>]], dtype=np.float32)</span><br><span class="line">  predict_input_fn = tf.estimator.inputs.numpy_input_fn(</span><br><span class="line">      x=&#123;<span class="string">"x"</span>: new_samples&#125;,</span><br><span class="line">      num_epochs=<span class="number">1</span>,</span><br><span class="line">      shuffle=<span class="literal">False</span>)</span><br><span class="line"></span><br><span class="line">  predictions = list(classifier.predict(input_fn=predict_input_fn))</span><br><span class="line">  predicted_classes = [p[<span class="string">"classes"</span>] <span class="keyword">for</span> p <span class="keyword">in</span> predictions]</span><br><span class="line"></span><br><span class="line">  print(</span><br><span class="line">      <span class="string">"New Samples, Class Predictions:    &#123;&#125;\n"</span></span><br><span class="line">      .format(predicted_classes))</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> __name__ == <span class="string">"__main__"</span>:</span><br><span class="line">    main()</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;base on python2&lt;/p&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;
+      
+    
+    </summary>
+    
+      <category term="Machine Learning" scheme="http://yunwangst.com/categories/Machine-Learning/"/>
+    
+    
+      <category term="tensorflow" scheme="http://yunwangst.com/tags/tensorflow/"/>
+    
+      <category term="dnn" scheme="http://yunwangst.com/tags/dnn/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LSTM</title>
+    <link href="http://yunwangst.com/2017/04/05/LSTM/"/>
+    <id>http://yunwangst.com/2017/04/05/LSTM/</id>
+    <published>2017-04-05T15:19:41.000Z</published>
+    <updated>2019-06-03T02:01:14.721Z</updated>
+    
+    <content type="html"><![CDATA[<p>推荐理论blog: <a href="http://www.csdn.net/article/2015-11-25/2826323" target="_blank" rel="noopener">http://www.csdn.net/article/2015-11-25/2826323</a></p><p>continue ……</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;推荐理论blog: &lt;a href=&quot;http://www.csdn.net/article/2015-11-25/2826323&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.csdn.net/article/2015-11-25/
+      
+    
+    </summary>
+    
+      <category term="Machine Learning" scheme="http://yunwangst.com/categories/Machine-Learning/"/>
+    
+    
+      <category term="tensorflow" scheme="http://yunwangst.com/tags/tensorflow/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>tensorflow-cnn</title>
+    <link href="http://yunwangst.com/2017/04/02/tensorflow-cnn/"/>
+    <id>http://yunwangst.com/2017/04/02/tensorflow-cnn/</id>
+    <published>2017-04-02T03:04:27.000Z</published>
+    <updated>2019-06-03T02:01:14.721Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> tensorflow.examples.tutorials.mnist <span class="keyword">import</span> input_data</span><br><span class="line"><span class="keyword">import</span> tensorflow <span class="keyword">as</span> tf</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">weight_variable</span><span class="params">(shape)</span>:</span></span><br><span class="line">    initial = tf.truncated_normal(shape, stddev=<span class="number">0.1</span>)</span><br><span class="line">    <span class="keyword">return</span> tf.Variable(initial)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">bias_variable</span><span class="params">(shape)</span>:</span></span><br><span class="line">    initial = tf.constant(<span class="number">0.1</span>, shape=shape)</span><br><span class="line">    <span class="keyword">return</span> tf.Variable(initial)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">conv2d</span><span class="params">(x, w)</span>:</span></span><br><span class="line">    <span class="keyword">return</span> tf.nn.conv2d(x, w, strides=[<span class="number">1</span>, <span class="number">1</span>, <span class="number">1</span>, <span class="number">1</span>], padding=<span class="string">'SAME'</span>)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">max_pool_2x2</span><span class="params">(x)</span>:</span></span><br><span class="line">    <span class="keyword">return</span> tf.nn.max_pool(x, ksize=[<span class="number">1</span>, <span class="number">2</span>, <span class="number">2</span>, <span class="number">1</span>], strides=[<span class="number">1</span>, <span class="number">2</span>, <span class="number">2</span>, <span class="number">1</span>], padding=<span class="string">'SAME'</span>)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> __name__ == <span class="string">'__main__'</span>:</span><br><span class="line">    mnist = input_data.read_data_sets(<span class="string">'mnist'</span>, one_hot=<span class="literal">True</span>)</span><br><span class="line">    sess = tf.InteractiveSession()</span><br><span class="line"></span><br><span class="line">    x = tf.placeholder(tf.float32, [<span class="literal">None</span>, <span class="number">784</span>])</span><br><span class="line">    y_ = tf.placeholder(tf.float32, [<span class="literal">None</span>, <span class="number">10</span>])</span><br><span class="line">    x_image = tf.reshape(x, [<span class="number">-1</span>, <span class="number">28</span>, <span class="number">28</span>, <span class="number">1</span>])</span><br><span class="line"></span><br><span class="line">    w_conv1 = weight_variable([<span class="number">5</span>, <span class="number">5</span>, <span class="number">1</span>, <span class="number">32</span>])</span><br><span class="line">    b_conv1 = bias_variable([<span class="number">32</span>])</span><br><span class="line">    h_conv1 = tf.nn.relu(conv2d(x_image, w_conv1) + b_conv1)</span><br><span class="line">    h_pool1 = max_pool_2x2(h_conv1)</span><br><span class="line"></span><br><span class="line">    w_conv2 = weight_variable([<span class="number">5</span>,<span class="number">5</span>,<span class="number">32</span>,<span class="number">64</span>])</span><br><span class="line">    b_conv2 = bias_variable([<span class="number">64</span>])</span><br><span class="line">    h_conv2 = tf.nn.relu(conv2d(h_pool1, w_conv2)+ b_conv2)</span><br><span class="line">    h_pool2 = max_pool_2x2(h_conv2)</span><br><span class="line"></span><br><span class="line">    w_fc1 = weight_variable([<span class="number">7</span>*<span class="number">7</span>*<span class="number">64</span>,<span class="number">1024</span>])</span><br><span class="line">    b_fc1 = bias_variable([<span class="number">1024</span>])</span><br><span class="line"></span><br><span class="line">    h_pool2_flat = tf.reshape(h_pool2, [<span class="number">-1</span>,<span class="number">7</span>*<span class="number">7</span>*<span class="number">64</span>])</span><br><span class="line">    h_fc1 = tf.nn.relu(tf.matmul(h_pool2_flat, w_fc1) + b_fc1)</span><br><span class="line"></span><br><span class="line">    keep_prob = tf.placeholder(tf.float32)</span><br><span class="line">    h_fc1_drop = tf.nn.dropout(h_fc1, keep_prob)</span><br><span class="line"></span><br><span class="line">    w_fc2 = weight_variable([<span class="number">1024</span>,<span class="number">10</span>])</span><br><span class="line">    b_fc2 = bias_variable([<span class="number">10</span>])</span><br><span class="line">    y_conv = tf.nn.softmax(tf.matmul(h_fc1_drop, w_fc2) + b_fc2)</span><br><span class="line"></span><br><span class="line">    cross_entropy = tf.reduce_mean(-tf.reduce_sum(y_ * tf.log(y_conv), reduction_indices=[<span class="number">1</span>]))</span><br><span class="line">    train_step = tf.train.AdamOptimizer(<span class="number">1e-4</span>).minimize(cross_entropy)</span><br><span class="line"></span><br><span class="line">    correct_prediction = tf.equal(tf.argmax(y_conv, <span class="number">1</span>), tf.argmax(y_,<span class="number">1</span>))</span><br><span class="line">    accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))</span><br><span class="line"></span><br><span class="line">    tf.global_variables_initializer().run()</span><br><span class="line">    <span class="keyword">for</span> i <span class="keyword">in</span> range(<span class="number">20000</span>):</span><br><span class="line">        batch = mnist.train.next_batch(<span class="number">50</span>)</span><br><span class="line">        <span class="keyword">if</span> i % <span class="number">100</span> ==<span class="number">0</span>:</span><br><span class="line">            train_accuracy = accuracy.eval(feed_dict=&#123;x:batch[<span class="number">0</span>], y_:batch[<span class="number">1</span>], keep_prob:<span class="number">1.0</span>&#125;)</span><br><span class="line">            print(<span class="string">"step %d, training accuracy %g"</span>%(i, train_accuracy))</span><br><span class="line">        train_step.run(feed_dict=&#123;x:batch[<span class="number">0</span>], y_:batch[<span class="number">1</span>], keep_prob:<span class="number">0.5</span>&#125;)</span><br><span class="line">    print(<span class="string">"test accuracy %g"</span>%accuracy.eval(feed_dict=&#123;x:mnist.test.images, y_:mnist.test.labels, keep_prob:<span class="number">1.0</span>&#125;))</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span clas
+      
+    
+    </summary>
+    
+      <category term="Machine Learning" scheme="http://yunwangst.com/categories/Machine-Learning/"/>
+    
+    
+      <category term="tensorflow" scheme="http://yunwangst.com/tags/tensorflow/"/>
+    
+      <category term="mnist" scheme="http://yunwangst.com/tags/mnist/"/>
+    
+      <category term="cnn" scheme="http://yunwangst.com/tags/cnn/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mnist单隐层的神经网络</title>
+    <link href="http://yunwangst.com/2017/03/27/mnist-single-layer/"/>
+    <id>http://yunwangst.com/2017/03/27/mnist-single-layer/</id>
+    <published>2017-03-27T14:17:48.000Z</published>
+    <updated>2019-06-03T02:01:14.721Z</updated>
+    
+    <content type="html"><![CDATA[<p>#mnist单隐层的神经网络</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> tensorflow.examples.tutorials.mnist <span class="keyword">import</span> input_data</span><br><span class="line"><span class="keyword">import</span> tensorflow <span class="keyword">as</span> tf</span><br><span class="line">mnist = input_data.read_data_sets(<span class="string">'mnist'</span>, one_hot=<span class="literal">True</span>)</span><br><span class="line">sess =  tf.InteractiveSession()</span><br><span class="line">in_units = <span class="number">784</span>   <span class="comment"># 28 * 28</span></span><br><span class="line">h1_units = <span class="number">300</span> <span class="comment"># hidden nodes</span></span><br><span class="line">w1 = tf.Variable(tf.truncated_normal([in_units, h1_units], stddev=<span class="number">0.1</span>))</span><br><span class="line">b1 = tf.Variable(tf.zeros([h1_units]))</span><br><span class="line">w2 = tf.Variable(tf.zeros([h1_units, <span class="number">10</span>]))</span><br><span class="line">b2 = tf.Variable(tf.zeros([<span class="number">10</span>]))</span><br><span class="line"></span><br><span class="line"><span class="comment"># 1 forwawrd part</span></span><br><span class="line">x = tf.placeholder(tf.float32, [<span class="literal">None</span>, in_units])</span><br><span class="line">keep_prob = tf.placeholder(tf.float32)</span><br><span class="line">hidden1 = tf.nn.relu(tf.matmul(x, w1) + b1)</span><br><span class="line">hidden1_drop = tf.nn.dropout(hidden1, keep_prob)</span><br><span class="line">y = tf.nn.softmax(tf.matmul(hidden1_drop, w2) + b2)</span><br><span class="line"><span class="comment"># 2 loss and optimizer</span></span><br><span class="line">y_ = tf.placeholder(tf.float32, [<span class="literal">None</span>, <span class="number">10</span>])</span><br><span class="line">cross_entropy = tf.reduce_mean(-tf.reduce_sum(y_ * tf.log(y), reduction_indices=[<span class="number">1</span>]))</span><br><span class="line">train_step = tf.train.AdagradOptimizer(<span class="number">0.3</span>).minimize(cross_entropy)</span><br><span class="line"><span class="comment"># 3 run</span></span><br><span class="line">tf.global_variables_initializer().run()</span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> range(<span class="number">3000</span>):</span><br><span class="line">    batch_xs, batch_ys = mnist.train.next_batch(<span class="number">100</span>)</span><br><span class="line">    train_step.run(&#123;x: batch_xs, y_:batch_ys, keep_prob: <span class="number">0.75</span>&#125;)</span><br><span class="line"><span class="comment"># 4 test</span></span><br><span class="line">correct_prediction = tf.equal(tf.argmax(y, <span class="number">1</span>), tf.argmax(y_,<span class="number">1</span>))</span><br><span class="line">accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))</span><br><span class="line">print(accuracy.eval(&#123;x:mnist.test.images, y_:mnist.test.labels, keep_prob:<span class="number">3.0</span>&#125;))  <span class="comment"># 0.979</span></span><br><span class="line">最后准确率在<span class="number">0.979</span></span><br></pre></td></tr></table></figure><h2 id="summary"><a href="#summary" class="headerlink" title="summary"></a>summary</h2><p>依然是4个步骤<br>1 定义forward部分<br>2 定义损失函数和优化器，制定学习率<br>3 运行训练<br>4 运行测试</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#mnist单隐层的神经网络&lt;/p&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;
+      
+    
+    </summary>
+    
+      <category term="Machine Learning" scheme="http://yunwangst.com/categories/Machine-Learning/"/>
+    
+    
+      <category term="tensorflow" scheme="http://yunwangst.com/tags/tensorflow/"/>
+    
+      <category term="mnist" scheme="http://yunwangst.com/tags/mnist/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>tensorflow-autoencoder</title>
+    <link href="http://yunwangst.com/2017/03/26/tensorflow-autoencoder/"/>
+    <id>http://yunwangst.com/2017/03/26/tensorflow-autoencoder/</id>
+    <published>2017-03-26T11:08:57.000Z</published>
+    <updated>2019-06-03T02:01:14.721Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="加性高斯噪声自编码器"><a href="#加性高斯噪声自编码器" class="headerlink" title="加性高斯噪声自编码器"></a>加性高斯噪声自编码器</h1><hr><p>先上代码</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line"><span class="keyword">import</span> sklearn.preprocessing <span class="keyword">as</span> prep</span><br><span class="line"><span class="keyword">import</span> tensorflow <span class="keyword">as</span> tf</span><br><span class="line"><span class="keyword">from</span> tensorflow.examples.tutorials.mnist <span class="keyword">import</span> input_data</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">xavier_init</span><span class="params">(fan_in, fan_out, constant=<span class="number">1</span>)</span>:</span></span><br><span class="line">    high = constant * np.sqrt(<span class="number">6.0</span> / (fan_in + fan_out))</span><br><span class="line">    low = -high</span><br><span class="line">    <span class="keyword">return</span> tf.random_uniform((fan_in, fan_out), minval=low, maxval=high, dtype=tf.float32)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">standard_scale</span><span class="params">(x_train, x_test)</span>:</span></span><br><span class="line">    preprocessor = prep.StandardScaler().fit(x_train)</span><br><span class="line">    x_train = preprocessor.transform(x_train)</span><br><span class="line">    x_test = preprocessor.transform(x_test)</span><br><span class="line">    <span class="keyword">return</span> x_train, x_test</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">get_random_block_from_data</span><span class="params">(data, batch_size)</span>:</span></span><br><span class="line">    start_index = np.random.randint(<span class="number">0</span>, len(data) - batch_size)</span><br><span class="line">    <span class="keyword">return</span> data[start_index:(start_index + batch_size)]</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">AdditiveGaussianNoiseAutoenvoder</span><span class="params">(object)</span>:</span></span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">__init__</span><span class="params">(self, n_input, n_hidden, transfer_function=tf.nn.softplus, optimizer=tf.train.AdamOptimizer<span class="params">()</span>,</span></span></span><br><span class="line"><span class="function"><span class="params">                 scale=<span class="number">0.1</span>)</span>:</span></span><br><span class="line">        self.n_input = n_input</span><br><span class="line">        self.n_hidden = n_hidden</span><br><span class="line">        self.transfer = transfer_function</span><br><span class="line">        self.scale = tf.placeholder(tf.float32)</span><br><span class="line">        self.training_scale = scale</span><br><span class="line">        self.weights = self._initialize_weights()</span><br><span class="line"></span><br><span class="line">        self.x = tf.placeholder(tf.float32, [<span class="literal">None</span>, self.n_input])</span><br><span class="line">        <span class="comment"># x * w + b</span></span><br><span class="line">        self.hidden = self.transfer(</span><br><span class="line">            tf.add(tf.matmul(self.x + scale * tf.random_normal((n_input,)), self.weights[<span class="string">'w1'</span>]), self.weights[<span class="string">'b1'</span>]))</span><br><span class="line">        self.reconstruction = tf.add(tf.matmul(self.hidden, self.weights[<span class="string">'w2'</span>]), self.weights[<span class="string">'b2'</span>])</span><br><span class="line"></span><br><span class="line">        self.cost = <span class="number">0.5</span> * tf.reduce_sum(tf.pow(tf.subtract(self.reconstruction, self.x), <span class="number">2.0</span>))</span><br><span class="line">        self.optimizer = optimizer.minimize(self.cost)</span><br><span class="line"></span><br><span class="line">        init = tf.global_variables_initializer()</span><br><span class="line">        self.sess = tf.Session()</span><br><span class="line">        self.sess.run(init)</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">_initialize_weights</span><span class="params">(self)</span>:</span>  <span class="comment"># 初始化权重</span></span><br><span class="line">        all_weights = dict()</span><br><span class="line">        all_weights[<span class="string">'w1'</span>] = tf.Variable(xavier_init(self.n_input, self.n_hidden))</span><br><span class="line">        all_weights[<span class="string">'b1'</span>] = tf.Variable(tf.zeros([self.n_hidden], dtype=tf.float32))</span><br><span class="line">        all_weights[<span class="string">'w2'</span>] = tf.Variable(tf.zeros([self.n_hidden, self.n_input], dtype=tf.float32))</span><br><span class="line">        all_weights[<span class="string">'b2'</span>] = tf.Variable(tf.zeros([self.n_input], dtype=tf.float32))</span><br><span class="line">        <span class="keyword">return</span> all_weights</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">partial_fit</span><span class="params">(self, x)</span>:</span></span><br><span class="line">        cost, opt = self.sess.run((self.cost, self.optimizer), feed_dict=&#123;self.x: x, self.scale: self.training_scale&#125;)</span><br><span class="line">        <span class="keyword">return</span> cost</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">calc_total_cost</span><span class="params">(self, x)</span>:</span></span><br><span class="line">        <span class="keyword">return</span> self.sess.run(self.cost, feed_dict=&#123;self.x: x, self.scale: self.training_scale&#125;)</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">transform</span><span class="params">(self, x)</span>:</span></span><br><span class="line">        <span class="keyword">return</span> self.sess.run(self.hidden, feed_dict=&#123;self.x: x, self.scale: self.training_scale&#125;)</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">generate</span><span class="params">(self, hidden=None)</span>:</span></span><br><span class="line">        <span class="keyword">if</span> hidden <span class="keyword">is</span> <span class="literal">None</span>:</span><br><span class="line">            hidden = np.random.normal(size=self.weights[<span class="string">'b1'</span>])</span><br><span class="line">        <span class="keyword">return</span> self.sess.run(self.reconstruction, feed_dict=&#123;self.hidden: hidden&#125;)</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">reconstruct</span><span class="params">(self, x)</span>:</span></span><br><span class="line">        <span class="keyword">return</span> self.sess.run(self.reconstruction, feed_dict=&#123;self.x: x, self.scale: self.training_scale&#125;)</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">getWeights</span><span class="params">(self)</span>:</span></span><br><span class="line">        <span class="keyword">return</span> self.sess.run(self.weights[<span class="string">'w1'</span>])</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">getBiases</span><span class="params">(self)</span>:</span></span><br><span class="line">        <span class="keyword">return</span> self.sess.run(self.weights[<span class="string">'b1'</span>])</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> __name__ == <span class="string">'__main__'</span>:</span><br><span class="line">    mnist = input_data.read_data_sets(<span class="string">'mnist'</span>, one_hot=<span class="literal">True</span>)  <span class="comment"># 读取数据</span></span><br><span class="line">    x_train, x_test = standard_scale(mnist.train.images, mnist.test.images) <span class="comment"># 数据标准化</span></span><br><span class="line">    n_samples = int(mnist.train.num_examples) </span><br><span class="line">    training_epoches = <span class="number">20</span></span><br><span class="line">    batch_size = <span class="number">128</span></span><br><span class="line">    display_step = <span class="number">1</span></span><br><span class="line">    </span><br><span class="line">    <span class="comment"># 初始化autoencoder</span></span><br><span class="line">    autoencoder = AdditiveGaussianNoiseAutoenvoder(n_input=<span class="number">784</span>, n_hidden=<span class="number">200</span>, transfer_function=tf.nn.relu,</span><br><span class="line">                                                   optimizer=tf.train.AdamOptimizer(learning_rate=<span class="number">0.001</span>), scale=<span class="number">0.02</span>)</span><br><span class="line">    print(n_samples)</span><br><span class="line">    <span class="comment"># train</span></span><br><span class="line">    <span class="keyword">for</span> epoch <span class="keyword">in</span> range(training_epoches):</span><br><span class="line">        avg_cost = <span class="number">0.</span></span><br><span class="line">        total_batch = int(n_samples / batch_size)</span><br><span class="line">        <span class="keyword">for</span> i <span class="keyword">in</span> range(total_batch):</span><br><span class="line">            batch_xs = get_random_block_from_data(x_train, batch_size)</span><br><span class="line">            cost = autoencoder.partial_fit(batch_xs)</span><br><span class="line">            avg_cost += cost / n_samples * batch_size</span><br><span class="line">        <span class="keyword">if</span> epoch % display_step == <span class="number">0</span>:</span><br><span class="line">            print(<span class="string">"Epoch: &#123;:&lt;4&#125; cost= &#123;:.9&#125;"</span>.format(epoch + <span class="number">1</span>, avg_cost))</span><br><span class="line">    print(<span class="string">"Total cost: &#123;&#125;"</span>.format(autoencoder.calc_total_cost(x_test)))</span><br></pre></td></tr></table></figure><p>1 xavier_init: 初始化方法<br><img src="http://static.zybuluo.com/luzhongqiu/ai9nsj6oslhxbn729f25kzhe/image_1bc53v7e51prc1m0318lf15go1mlq9.png" alt="image_1bc53v7e51prc1m0318lf15go1mlq9.png-14.9kB"></p><p>2 _initialize_weights 权重、偏置初始化</p><p>3 partial_fit： 执行2个计算图的节点，分别是损失cost和训练过程optimizer，从输入层到隐层。</p><p>4 calc_total_cost：只计算损失cost</p><p>5 transform: 隐层计算，输出隐层计算结果</p><p>6 generate： 隐层到输出层</p><p>7 reconstruct： 整个自编码过程， 包括transform和generate两块。</p><p>8 最后输出cost大约在7000左右</p><h2 id="summary"><a href="#summary" class="headerlink" title="summary"></a>summary</h2><pre><code>自编码器和单隐层神经网络差不多，只不过在数据输入时候做了标准化，并加上高斯噪声。自编码器是无监督，用于提取高阶特征。个人觉得，如果在监督学习中效果不好，可以在前期进行无监督学习提取高阶特征。</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;加性高斯噪声自编码器&quot;&gt;&lt;a href=&quot;#加性高斯噪声自编码器&quot; class=&quot;headerlink&quot; title=&quot;加性高斯噪声自编码器&quot;&gt;&lt;/a&gt;加性高斯噪声自编码器&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;先上代码&lt;/p&gt;
+&lt;figure class=&quot;highlight
+      
+    
+    </summary>
+    
+      <category term="Machine Learning" scheme="http://yunwangst.com/categories/Machine-Learning/"/>
+    
+    
+      <category term="tensorflow" scheme="http://yunwangst.com/tags/tensorflow/"/>
+    
+      <category term="unsupervised" scheme="http://yunwangst.com/tags/unsupervised/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>tensorflow mnist 初体验</title>
+    <link href="http://yunwangst.com/2017/03/26/tensorflow-mnist-softmax/"/>
+    <id>http://yunwangst.com/2017/03/26/tensorflow-mnist-softmax/</id>
+    <published>2017-03-26T01:31:42.000Z</published>
+    <updated>2019-06-03T02:01:14.721Z</updated>
+    
+    <content type="html"><![CDATA[<p>前提： tensorflow安装好，包括cuda和cudnn</p><p>先上代码<br><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> tensorflow.examples.tutorials.mnist <span class="keyword">import</span> input_data</span><br><span class="line">mnist = input_data.read_data_sets(<span class="string">'./mnist_data/'</span>, one_hot=<span class="literal">True</span>)</span><br><span class="line"><span class="keyword">import</span> tensorflow <span class="keyword">as</span> tf</span><br><span class="line">sess = tf.InteractiveSession()</span><br><span class="line">x = tf.placeholder(tf.float32, [<span class="literal">None</span>,<span class="number">784</span>])</span><br><span class="line">w = tf.Variable(tf.zeros([<span class="number">784</span>,<span class="number">10</span>]))</span><br><span class="line">b = tf.Variable(tf.zeros([<span class="number">10</span>]))</span><br><span class="line">y = tf.nn.softmax(tf.matmul(x, w)+b)</span><br><span class="line">y_ = tf.placeholder(tf.float32, [<span class="literal">None</span>, <span class="number">10</span>])</span><br><span class="line">cross_entropy = tf.reduce_mean(-tf.reduce_sum(y_ * tf.log(y), reduction_indices=[<span class="number">1</span>]))</span><br><span class="line">train_step = tf.train.GradientDescentOptimizer(<span class="number">0.5</span>).minimize(cross_entropy)</span><br><span class="line">tf.global_variables_initializer().run()</span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> range(<span class="number">1000</span>):</span><br><span class="line">    batch_xs, batch_ys = mnist.train.next_batch(<span class="number">100</span>)</span><br><span class="line">    train_step.run(&#123;x: batch_xs, y_:batch_ys&#125;)</span><br><span class="line">correct_prediction = tf.equal(tf.argmax(y,<span class="number">1</span>), tf.argmax(y_,<span class="number">1</span>))</span><br><span class="line">accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))</span><br><span class="line">print(accuracy.eval(&#123;x:mnist.test.images, y_:mnist.test.labels&#125;))</span><br></pre></td></tr></table></figure></p><p>行2 自动下载已经失效，手动下载gz压缩包到文件夹下，read_data_sets会自动检测到<br>行8 softmax函数<br>行9 y_为真实的label<br>行10 损失函数 loss function<br>行11 自动梯度下降，学习率为0.5<br>行12 初始化变量，并且run<br>行13-15 训练阶段<br>行16-17 定义准确率判别方法<br>行18 注入x, y_，运行计算准确率，<br>输出0.9202</p><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>mnist初体验总共分为4步<br>（1）定义算法公式，也就是神经网络forward时的计算<br>（2）定义loss function， 选定优化器，指定优化器优化loss<br>（3）迭代进行数据训练<br>（4）在测试集上测试</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;前提： tensorflow安装好，包括cuda和cudnn&lt;/p&gt;
+&lt;p&gt;先上代码&lt;br&gt;&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/s
+      
+    
+    </summary>
+    
+      <category term="Machine Learning" scheme="http://yunwangst.com/categories/Machine-Learning/"/>
+    
+    
+      <category term="tensorflow" scheme="http://yunwangst.com/tags/tensorflow/"/>
+    
+      <category term="mnist" scheme="http://yunwangst.com/tags/mnist/"/>
+    
+  </entry>
+  
+</feed>
